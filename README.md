@@ -6,9 +6,7 @@ Chrome extension to search the selected text on Goodreads.
 2. Left-click and "Goodreads Search"
 
 <div align="center">
-<img src="img/amazon.png" width="400" />
-&nbsp;&nbsp;&nbsp;
-<img src="img/goodreads.png" width="500" />
+<img src="img/amazon.png" width="200" />&nbsp;&nbsp;&nbsp;<img src="img/goodreads.png" width="500" />
 </div>
 
 # Author
