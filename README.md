@@ -8,7 +8,7 @@ Chrome extension to search the selected text on Goodreads.
 <div align="center">
 <img src="img/amazon.png" width="400" />
 &nbsp;&nbsp;&nbsp;
-<img src="img/goodreads.png" width="400" />
+<img src="img/goodreads.png" width="500" />
 </div>
 
 # Author
