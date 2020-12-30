@@ -17,7 +17,7 @@
 1. Download the code of the repository.
 
    ```bash
-   git clone https://github.com/pauladj/goodreads-search.git
+   git clone https://github.com/pauladj/chrome-extension-goodreads-search.git
    ```
 
 2. Go to "Manage extensions" in Google Chrome.
